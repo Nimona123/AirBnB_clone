@@ -1,1 +1,1 @@
-AirBnB_clone team project! 
+this is 0x00. AirBnB clone - The console
